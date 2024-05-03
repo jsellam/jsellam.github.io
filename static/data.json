@@ -1,123 +1,160 @@
 {
-    "projects":[
+  "projects": [
+    {
+      "title": "Chanel - Forever in style",
+      "legend": "Internal mobile game in unity / react-native",
+      "date": "2022-12",
+      "banner": "forever.jpg",
+      "tags": ["unity", "react-native"],
+      "links": [
         {
-            "title":"NFT Metaverse Museum",
-            "legend":"NFT gallery made with unity, exported in webgl",
-            "date":"2022-01",
-            "banner":"museum.jpg",
-            "tags":["webgl","unity","nextjs"],
-            "links":[
-                {"type":"icon-youtube-play","url":"https://youtu.be/8pqL3kDHi1k"},
-                {"type":"icon-link","url":"https://nftmetaversemuseum.com/"}
-            ]
-        },
-        {
-            "title":"Louis Vuitton - Gift factory",
-            "legend":"A Pixijs website for Louis Vuitton",
-            "date":"2016-11",
-            "banner":"giftfactory.jpg",
-            "tags":["webgl","pixijs","frontend"],
-            "links":[
-                {"type":"icon-youtube-play","url":"https://youtu.be/8pqL3kDHi1k"}
-            ]
-        },
-        {
-            "title":"Samsung Lifechanger",
-            "legend":"360 website for Samsung",
-            "date":"2016-05",
-            "banner":"lifechanger.jpg",
-            "tags":["webgl","threejs","frontend"],
-            "links":[
-                {"type":"icon-youtube-play","url":"https://youtu.be/PnlRN3KOFms"}
-            ]
-        },
-        {
-            "title":"Evian - Baby surf",
-            "legend":"VR game with 360 interactive video",
-            "date":"2016-04",
-            "banner":"babysurf.jpg",
-            "tags":["unity","3D","VR","android"],
-            "links":[
-                {"type":"icon-youtube-play","url":"https://youtu.be/sBCCEj3T6A0"},
-                {"type":"icon-android","url":"https://play.google.com/store/apps/details?id=com.evian.babies"},
-                {"type":"icon-apple","url":"https://itunes.apple.com/fr/app/evian-babysurf/id1008710580?mt=8"}
-            ]
-        },
-        {
-            "title":"Procedural war",
-            "legend":"Webgl animation",
-            "date":"2016-02",
-            "banner":"proceduralwar.jpg",
-            "tags":["webgl","threejs","procedural"],
-            "links":[
-                {"type":"icon-link","url":"http://chloridrik.free.fr/"}
-            ]
-        },
-        {
-            "title":"Army truck driver",
-            "legend":"Mobile game made with unity",
-            "date":"2015-11",
-            "banner":"armytruckdriver.jpg",
-            "tags":["unity","android","ios","windowsphone","game"],
-            "links":[
-                {"type":"icon-youtube-play","url":"https://youtu.be/L8xYoSb7QKk"},
-                {"type":"icon-android","url":"https://play.google.com/store/apps/details?id=com.pollop.armytruckdriver2"},
-                {"type":"icon-apple","url":"https://itunes.apple.com/us/app/army-trucks-driver-2-new-army-jeep-rider-game/id1001539514?mt=8"}
-            ]
-        },
-        {
-            "title":"Five weeks in a baloon",
-            "legend":"Multiplayer mobile game made with unity",
-            "date":"2015-11",
-            "banner":"fiveweeks.jpg",
-            "tags":["unity","android","ios","windowsphone","game","multiplayer"],
-            "links":[
-                {"type":"icon-youtube-play","url":"https://youtu.be/TGDRY-N-eJ8"},
-                {"type":"icon-android","url":"https://play.google.com/store/apps/details?id=com.pollop.airballoon"},
-                {"type":"icon-apple","url":"https://itunes.apple.com/us/app/5-weeks-in-balloon-race-against-friends-in-multiplayer/id1055633404?mt=8"}
-            ]
-        },
-        {
-            "title":"Innovation - Age of crafting",
-            "legend":"Puzzle game made with unity",
-            "date":"2015-08",
-            "banner":"innovation.jpg",
-            "tags":["unity","android","ios","windowsphone","game"],
-            "links":[
-                {"type":"icon-youtube-play","url":"https://youtu.be/JA08xV8M6ls"},
-                {"type":"icon-android","url":"https://play.google.com/store/apps/details?id=com.pollop.innovation"},
-                {"type":"icon-apple","url":"https://itunes.apple.com/us/app/innovation-age-of-crafting-mix-match-puzzle-game/id980975872?mt=8"}
-            ]
-        },
-        {
-            "title":"Landscape shader",
-            "legend":"water shader + heightmap",
-            "date":"2014-11",
-            "banner":"landscape.jpg",
-            "tags":["flash","actionscript","3D"],
-            "links":[
-                {"type":"icon-youtube-play","url":"https://youtu.be/1Yafz5BjqPU"}
-            ]
-        },
-        {
-            "title":"Under water shader",
-            "legend":"Under water shader + heightmap",
-            "date":"2014-11",
-            "banner":"underwater.jpg",
-            "tags":["flash","actionscript","3D"],
-            "links":[
-                {"type":"icon-youtube-play","url":"https://youtu.be/hPFUmNkM8GI"}
-            ]  
-        },
-        {
-            "title":"leschinois.com",
-            "legend":"Stage 3D website",
-            "date":"2014-09",
-            "banner":"chinois.jpg",
-            "tags":["flash","actionscript","3D","frontend"],
-            "links":[
-                {"type":"icon-youtube-play","url":"https://youtu.be/OSHWVWz3QWk"}
-            ]
+          "type": "icon-youtube-play",
+          "url": "https://youtu.be/A1lsGJHIPhU"
         }
-    ]
+      ]
+    },
+    {
+      "title": "Debeers - Virtual home of diamond",
+      "legend": "High quality, multi-camera meeting for jewelry",
+      "date": "2020-05",
+      "banner": "diamond.jpg",
+      "tags": ["reactjs", "webrtc"],
+      "links": [
+        {
+          "type": "icon-youtube-play",
+          "url": "https://youtu.be/yRuxo3aCIBA"
+        }
+      ]
+    },
+    {
+      "title": "NFT Metaverse Museum",
+      "legend": "NFT gallery made with unity, exported in webgl",
+      "date": "2022-01",
+      "banner": "museum.jpg",
+      "tags": ["webgl", "unity", "nextjs"],
+      "links": [
+        {
+          "type": "icon-youtube-play",
+          "url": "https://www.youtube.com/watch?v=Nc7DU-wdZD4"
+        }
+      ]
+    },
+    {
+      "title": "Ligue Nationale de rugby",
+      "legend": "Vertical scrolling page",
+      "date": "2016",
+      "banner": "bouclier.jpg",
+      "tags": ["reactjs", "canvas", "video"],
+      "links": [
+        {
+          "type": "icon-youtube-play",
+          "url": "https://www.youtube.com/watch?v=3mpCTsRaNlo"
+        }
+      ]
+    },
+    {
+      "title": "Louis Vuitton - Gift factory",
+      "legend": "A Pixijs website for Louis Vuitton",
+      "date": "2016-11",
+      "banner": "giftfactory.jpg",
+      "tags": ["webgl", "pixijs", "frontend"],
+      "links": [
+        { "type": "icon-youtube-play", "url": "https://youtu.be/8pqL3kDHi1k" }
+      ]
+    },
+    {
+      "title": "Samsung Lifechanger",
+      "legend": "360 website for Samsung",
+      "date": "2016-05",
+      "banner": "lifechanger.jpg",
+      "tags": ["webgl", "threejs", "frontend"],
+      "links": [
+        { "type": "icon-youtube-play", "url": "https://youtu.be/PnlRN3KOFms" }
+      ]
+    },
+    {
+      "title": "Evian - Baby surf",
+      "legend": "VR game with 360 interactive video",
+      "date": "2016-04",
+      "banner": "babysurf.jpg",
+      "tags": ["unity", "3D", "VR", "android"],
+      "links": [
+        { "type": "icon-youtube-play", "url": "https://youtu.be/sBCCEj3T6A0" }
+      ]
+    },
+    {
+      "title": "Procedural war",
+      "legend": "Webgl animation",
+      "date": "2016-02",
+      "banner": "proceduralwar.jpg",
+      "tags": ["webgl", "threejs", "procedural"],
+      "links": []
+    },
+    {
+      "title": "Army truck driver",
+      "legend": "Mobile game made with unity",
+      "date": "2015-11",
+      "banner": "armytruckdriver.jpg",
+      "tags": ["unity", "android", "ios", "windowsphone", "game"],
+      "links": []
+    },
+    {
+      "title": "Five weeks in a baloon",
+      "legend": "Multiplayer mobile game made with unity",
+      "date": "2015-11",
+      "banner": "fiveweeks.jpg",
+      "tags": [
+        "unity",
+        "android",
+        "ios",
+        "windowsphone",
+        "game",
+        "multiplayer"
+      ],
+      "links": [
+        {
+          "type": "icon-youtube-play",
+          "url": "https://www.youtube.com/watch?v=-0tEfWJ1WAY"
+        }
+      ]
+    },
+    {
+      "title": "Innovation - Age of crafting",
+      "legend": "Puzzle game made with unity",
+      "date": "2015-08",
+      "banner": "innovation.jpg",
+      "tags": ["unity", "android", "ios", "windowsphone", "game"],
+      "links": []
+    },
+    {
+      "title": "Landscape shader",
+      "legend": "water shader + heightmap",
+      "date": "2014-11",
+      "banner": "landscape.jpg",
+      "tags": ["flash", "actionscript", "3D"],
+      "links": [
+        { "type": "icon-youtube-play", "url": "https://youtu.be/1Yafz5BjqPU" }
+      ]
+    },
+    {
+      "title": "Under water shader",
+      "legend": "Under water shader + heightmap",
+      "date": "2014-11",
+      "banner": "underwater.jpg",
+      "tags": ["flash", "actionscript", "3D"],
+      "links": [
+        { "type": "icon-youtube-play", "url": "https://youtu.be/hPFUmNkM8GI" }
+      ]
+    },
+    {
+      "title": "leschinois.com",
+      "legend": "Stage 3D website",
+      "date": "2014-09",
+      "banner": "chinois.jpg",
+      "tags": ["flash", "actionscript", "3D", "frontend"],
+      "links": [
+        { "type": "icon-youtube-play", "url": "https://youtu.be/OSHWVWz3QWk" }
+      ]
+    }
+  ]
 }
